@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity(), LocationListener {
 
     private lateinit var tvLatitude : TextView
     private lateinit var tvLongitude : TextView
-
+    //Eu Estive aqui, não da para fazer push :)
     private lateinit var locationManager : LocationManager
 
     override fun onCreate(savedInstanceState: Bundle?) {
